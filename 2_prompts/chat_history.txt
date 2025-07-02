@@ -1,0 +1,2 @@
+HumanMessage(content='Where is my refund of order #12345')
+AIMessage(content='\nYour refund of order #12345 will be processed and credited to your account within 1-2  business days. Please allow additional time for bank transfers or other processing delays. If you have any questions or concerns)

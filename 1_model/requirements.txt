@@ -1,0 +1,17 @@
+langchain
+langchain-huggingface
+langchain-openai
+langchain-community
+langchain-anthropic
+langchain-google-genai
+openai
+google-generativeai
+transformers
+huggingface-hub
+python-dotenv
+numpy
+scikit-learn
+pandas
+torch 
+torchvision 
+torchaudio
