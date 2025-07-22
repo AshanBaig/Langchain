@@ -2,11 +2,11 @@
 # 3_chain-->2_parallel_chain.py
 
 
-from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser  # str means direct string ayegi .content kr ke nhi nikalna prga
 from langchain.schema.runnable import RunnableSequence,RunnableParallel
 
+from langchain_openai import ChatOpenAI
 
 GROQ_API_KEY = "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"
 

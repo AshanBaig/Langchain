@@ -3,8 +3,8 @@
 
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
-from langchain.prompts import PromptTemplate
 from pydantic import BaseModel,Field
+from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import PydanticOutputParser  # str means direct string ayegi .content kr ke nhi nikalna prga
 load_dotenv()
 

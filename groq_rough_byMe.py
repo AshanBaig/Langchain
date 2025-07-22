@@ -18,7 +18,7 @@ completion = client.chat.completions.create(
       }
     ],
     temperature=1,
-    max_completion_tokens=1024,
+    max_completion_tokens=2024,
     top_p=1,
     stream=True,
     stop=None,
